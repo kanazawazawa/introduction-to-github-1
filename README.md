@@ -142,7 +142,7 @@ You may have noticed after your commit that a message displayed indicating your 
 
 ![screenshot of message and button](/images/compare-and-pull-request.png)
 
- If you want, feel free to click **Compare & pull request**, and then skip to step 3 - 6 below. If you don't click the button, the instructions below walk you through manually setting up the pull request.
+ If you want, feel free to click **Compare & pull request**, and then skip to No.6 below. If you don't click the button, the instructions below walk you through manually setting up the pull request.
 
 1. Click on the **Pull requests** tab in your repository.
 2. Click **New pull request**.
